@@ -2,22 +2,34 @@
 
 Smart games for curious minds.
 
+🌐 Website: https://artil.app
+
 ## Games
 
-🧠 Trivia Hit
-Fast trivia challenges across multiple categories.
+### 🧠 Trivia Hit
+Fast trivia challenges across geography, football and pop culture.
 
-⚡ 7 Boom
-A mental counting challenge.
+🔗 https://artil.app/trivia-hit
 
-🎯 Speed Tap
+### ⚡ 7 BOOM
+A fast-paced mental counting challenge.
+
+🔗 https://artil.app/7-boom
+
+### 🎯 Speed Tap
 Test your reaction speed and precision.
 
-👁️ Find The Ball
-Train observation and focus.
+🔗 https://artil.app/speed-tap
 
-🍬 Poison Candy
+### 👁️ Find The Ball
+Train your observation and focus skills.
+
+🔗 https://artil.app/find-the-ball
+
+### 🍬 Poison Candy
 A psychological strategy game.
+
+🔗 https://artil.app/poison-candy
 
 ## Website
 
